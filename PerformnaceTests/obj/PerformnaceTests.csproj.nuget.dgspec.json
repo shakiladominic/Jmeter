@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\JmeterToCopy.csproj": {}
+    "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\PerformnaceTests\\PerformnaceTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\JmeterToCopy.csproj": {
+    "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\PerformnaceTests\\PerformnaceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\JmeterToCopy.csproj",
-        "projectName": "JmeterToCopy",
-        "projectPath": "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\JmeterToCopy.csproj",
+        "projectUniqueName": "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\PerformnaceTests\\PerformnaceTests.csproj",
+        "projectName": "PerformnaceTests",
+        "projectPath": "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\PerformnaceTests\\PerformnaceTests.csproj",
         "packagesPath": "C:\\Users\\shaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\obj\\",
+        "outputPath": "C:\\Users\\shaki\\Documents\\GitHub\\Jmeter\\PerformnaceTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,9 +48,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
