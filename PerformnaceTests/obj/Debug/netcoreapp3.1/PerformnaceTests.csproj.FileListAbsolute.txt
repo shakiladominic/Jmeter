@@ -1,0 +1,9 @@
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\bin\Debug\netcoreapp3.1\PerformnaceTests.deps.json
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\bin\Debug\netcoreapp3.1\PerformnaceTests.dll
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\bin\Debug\netcoreapp3.1\PerformnaceTests.pdb
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\obj\Debug\netcoreapp3.1\PerformnaceTests.csprojAssemblyReference.cache
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\obj\Debug\netcoreapp3.1\PerformnaceTests.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\obj\Debug\netcoreapp3.1\PerformnaceTests.AssemblyInfoInputs.cache
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\obj\Debug\netcoreapp3.1\PerformnaceTests.AssemblyInfo.cs
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\obj\Debug\netcoreapp3.1\PerformnaceTests.dll
+C:\Users\shaki\Documents\GitHub\Jmeter\PerformnaceTests\obj\Debug\netcoreapp3.1\PerformnaceTests.pdb
