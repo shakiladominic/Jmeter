@@ -26,7 +26,7 @@ namespace JmeterToCopy.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
-            System.Threading.Thread.Sleep(1000);
+            System.Threading.Thread.Sleep(5000);
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
